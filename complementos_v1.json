@@ -500,5 +500,148 @@
         "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/acreditamiento/AcreditamientoIEPS10.xsd",
         "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/acreditamiento/AcreditamientoIEPS10.xslt",
         "type": "ComplementoConcepto"
+    },
+    {
+        "description": "Arrendamiento en fideicomiso",
+        "docUrl": "https://www.sat.gob.mx/consulta/13847/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-arrendamiento-en-fideicomiso",
+        "element": "Arrendamientoenfideicomiso",
+        "version": "1.0",
+        "prefix": "arrendamientoenfideicomiso",
+        "namespace": "https://www.sat.gob.mx/consulta/13847/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-arrendamiento-en-fideicomiso",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/arrendamientoenfideicomiso/arrendamientoenfideicomiso.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/arrendamientoenfideicomiso/arrendamientoenfideicomiso.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Dividendos",
+        "docUrl": "https://www.sat.gob.mx/consulta/64730/complemento-de-dividendos",
+        "element": "Dividendos",
+        "version": "1.0",
+        "prefix": "dividendos",
+        "namespace": "https://www.sat.gob.mx/consulta/64730/complemento-de-dividendos",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/dividendos/dividendos.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/dividendos/dividendos.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Enajenación de Acciones",
+        "docUrl": "https://www.sat.gob.mx/consulta/64886/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-la-enajenacion-de-acciones",
+        "element": "EnajenaciondeAcciones",
+        "version": "1.0",
+        "prefix": "enajenaciondeacciones",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/enajenaciondeacciones",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/retencionpagov1.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/enajenaciondeacciones/enajenaciondeacciones.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Fideicomisonoempresarial",
+        "docUrl": "https://www.sat.gob.mx/consulta/65555/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-fideicomiso-no-empresarial",
+        "element": "Fideicomisonoempresarial",
+        "version": "1.0",
+        "prefix": "fideicomisonoempresarial",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/fideicomisonoempresarial",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/fideicomisonoempresarial/fideicomisonoempresarial.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/fideicomisonoempresarial/fideicomisonoempresarial.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Intereses",
+        "docUrl": "https://www.sat.gob.mx/consulta/65043/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-retenciones",
+        "element": "Intereses",
+        "version": "1.0",
+        "prefix": "intereses",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/intereses",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/intereses/intereses.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/intereses/intereses.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Intereses hipotecarios",
+        "docUrl": "https://www.sat.gob.mx/consulta/37371/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-intereses-hipotecarios",
+        "element": "Intereseshipotecarios",
+        "version": "1.0",
+        "prefix": "intereseshipotecarios",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/intereseshipotecarios",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/intereseshipotecarios/intereseshipotecarios.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/intereseshipotecarios/intereseshipotecarios.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Operaciones Con Derivados",
+        "docUrl": "https://www.sat.gob.mx/consulta/65767/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-operaciones-con-derivados",
+        "element": "operacionesconderivados",
+        "version": "1.0",
+        "prefix": "operacionesderivados",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/operacionesconderivados",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/operacionesconderivados/operacionesconderivados.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/operacionesconderivados/operacionesconderivados.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Pagos a extranjeros",
+        "docUrl": "https://www.sat.gob.mx/consulta/65199/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-a-extranjeros",
+        "element": "Pagosaextranjeros",
+        "version": "1.0",
+        "prefix": "pagosaextranjeros",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/enajenaciondeacciones",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/pagosaextranjeros/pagosaextranjeros.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/pagosaextranjeros/pagosaextranjeros.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Planes de retiro 1.1",
+        "docUrl": "https://www.sat.gob.mx/consulta/65672/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-planes-de-retiro",
+        "element": "Planesderetiro",
+        "version": "1.1",
+        "prefix": "planesderetiro11",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/planesderetiro11",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/planesderetiro/planesderetiro.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/planesderetiro/planesderetiro.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Planes de retiro 1.0",
+        "docUrl": "https://www.sat.gob.mx/consulta/65672/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-planes-de-retiro",
+        "element": "Planesderetiro",
+        "version": "1.0",
+        "prefix": "planesderetiro",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/planesderetiro",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/planesderetiro/planesderetiro.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/planesderetiro/planesderetiro.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Premios",
+        "docUrl": "https://www.sat.gob.mx/consulta/65435/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-premios",
+        "element": "Premios",
+        "version": "1.0",
+        "prefix": "premios",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/premios",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/premios/premios.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/premios/premios.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Sector Financiero",
+        "docUrl": "https://www.sat.gob.mx/consulta/65876/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-del-sector-financiero",
+        "element": "SectorFinanciero",
+        "version": "1.0",
+        "prefix": "sectorfinanciero",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/sectorfinanciero",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/sectorfinanciero/sectorfinanciero.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/sectorfinanciero/sectorfinanciero.xslt",
+        "type": "RetencionComplemento"
+    },
+    {
+        "description": "Servicios Plataformas Tecnológicas",
+        "docUrl": "https://www.sat.gob.mx/consulta/52846/complemento-servicios-de-plataformas-tecnologicas",
+        "element": "ServiciosPlataformasTecnologicas",
+        "version": "1.0",
+        "prefix": "plataformasTecnologicas",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10/ServiciosPlataformasTecnologicas10.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/PlataformasTecnologicas10/ServiciosPlataformasTecnologicas10.xslt",
+        "type": "RetencionComplemento"
     }
 ]
