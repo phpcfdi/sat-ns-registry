@@ -81,7 +81,7 @@
         "version": "1.0",
         "prefix": "tfd",
         "namespace": "http://www.sat.gob.mx/TimbreFiscalDigital",
-        "xsd": "http://www.sat.gob.mx/sitio_internet/timbrefiscaldigital/TimbreFiscalDigital.xsd",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/TimbreFiscalDigital/TimbreFiscalDigital.xsd",
         "xslt": "http://www.sat.gob.mx/sitio_internet/timbrefiscaldigital/cadenaoriginal_TFD_1_0.xslt",
         "type": "Complemento"
     },
@@ -92,7 +92,7 @@
         "version": "1.1",
         "prefix": "tfd",
         "namespace": "http://www.sat.gob.mx/TimbreFiscalDigital",
-        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd",
         "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/cadenaoriginal_TFD_1_1.xslt",
         "type": "Complemento"
     },
