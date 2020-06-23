@@ -97,6 +97,16 @@
         "type": "Complemento"
     },
     {
+        "description": "Estado de cuenta bancario",
+        "element": "EstadoDeCuentaBancario",
+        "version": "1.0",
+        "prefix": "ecb",
+        "namespace": "http://www.sat.gob.mx/ecb",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/ecb/ecb.xsd",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/ecb/ecb.xslt",
+        "type": "Complemento"
+    },
+    {
         "description": "Estado de cuenta de combustibles de monederos electrónicos 1.0",
         "docUrl": "https://www.sat.gob.mx/consulta/21885/genera-tus-facturas-electronicas-con-el-complemento-para-el-estado-de-cuenta-de-combustibles-para-monederos-electronicos",
         "element": "EstadoDeCuentaCombustible",
