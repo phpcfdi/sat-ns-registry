@@ -64,7 +64,7 @@
         "type": "Comprobante"
     },
     {
-        "description": "CFDI de Retenciones e Información de Pagos  1.0",
+        "description": "CFDI de Retenciones e Información de Pagos 1.0",
         "docUrl": "https://www.sat.gob.mx/consultas/35025/formato-de-factura-electronica-(anexo-20)",
         "element": "Retenciones",
         "version": "1.0",
@@ -524,7 +524,7 @@
         "type": "RetencionComplemento"
     },
     {
-        "description": "Enajenación de Acciones",
+        "description": "Enajenación de acciones",
         "docUrl": "https://www.sat.gob.mx/consulta/64886/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-la-enajenacion-de-acciones",
         "element": "EnajenaciondeAcciones",
         "version": "1.0",
@@ -535,7 +535,7 @@
         "type": "RetencionComplemento"
     },
     {
-        "description": "Fideicomisonoempresarial",
+        "description": "Fideicomiso no empresarial",
         "docUrl": "https://www.sat.gob.mx/consulta/65555/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-fideicomiso-no-empresarial",
         "element": "Fideicomisonoempresarial",
         "version": "1.0",
@@ -568,7 +568,7 @@
         "type": "RetencionComplemento"
     },
     {
-        "description": "Operaciones Con Derivados",
+        "description": "Operaciones con derivados",
         "docUrl": "https://www.sat.gob.mx/consulta/65767/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-operaciones-con-derivados",
         "element": "operacionesconderivados",
         "version": "1.0",
