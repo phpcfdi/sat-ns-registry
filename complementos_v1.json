@@ -298,7 +298,7 @@
         "version": "1.1",
         "prefix": "consumodecombustibles11",
         "namespace": "http://www.sat.gob.mx/ConsumoDeCombustibles11",
-        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/ConsumoDeCombustibles/consumodeCombustibles11.xsd",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/consumodecombustibles/consumodeCombustibles11.xsd",
         "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/consumodecombustibles/consumodeCombustibles11.xslt",
         "type": "Complemento"
     },
