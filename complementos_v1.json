@@ -398,7 +398,7 @@
         "prefix": "ine",
         "namespace": "http://www.sat.gob.mx/ine",
         "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/ine/ine11.xsd",
-        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/ine/INE11.xslt",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/ine/ine11.xslt",
         "type": "Complemento"
     },
     {
