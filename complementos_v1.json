@@ -76,13 +76,13 @@
     },
     {
         "description": "Timbre Fiscal Digital 1.0",
-        "docUrl": "https://www.sat.gob.mx/consultas/35025/formato-de-factura-electronica-(anexo-20)",
+        "docUrl": "https://www.gob.mx/sat/acciones-y-programas/timbre-fiscal-digital?state=published",
         "element": "TimbreFiscalDigital",
         "version": "1.0",
         "prefix": "tfd",
         "namespace": "http://www.sat.gob.mx/TimbreFiscalDigital",
         "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigital.xsd",
-        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/cadenaoriginal_TFD_1_0.xslt",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/timbrefiscaldigital/cadenaoriginal_TFD_1_0.xslt",
         "type": "Complemento"
     },
     {
