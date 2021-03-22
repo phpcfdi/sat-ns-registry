@@ -169,7 +169,7 @@
         "prefix": "divisas",
         "namespace": "http://www.sat.gob.mx/divisas",
         "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/divisas/divisas.xsd",
-        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/divisas/Divisas.xslt",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/divisas/divisas.xslt",
         "type": "Complemento"
     },
     {
