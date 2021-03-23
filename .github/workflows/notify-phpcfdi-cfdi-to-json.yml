@@ -1,0 +1,17 @@
+name: notify-phpcfdi-cfdi-to-json
+on:
+  push:
+    paths:
+      - 'complementos_v1.json'
+    branches:
+      - master
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Notify phpcfdi/cfdi-to-json"
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+          event-type: sat-ns-registry-update
