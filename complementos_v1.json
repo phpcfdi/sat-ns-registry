@@ -517,7 +517,7 @@
         "element": "Arrendamientoenfideicomiso",
         "version": "1.0",
         "prefix": "arrendamientoenfideicomiso",
-        "namespace": "https://www.sat.gob.mx/consulta/13847/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-arrendamiento-en-fideicomiso",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/arrendamientoenfideicomiso",
         "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/arrendamientoenfideicomiso/arrendamientoenfideicomiso.xsd",
         "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/arrendamientoenfideicomiso/arrendamientoenfideicomiso.xslt",
         "type": "RetencionComplemento"
