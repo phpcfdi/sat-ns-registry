@@ -528,7 +528,7 @@
         "element": "Dividendos",
         "version": "1.0",
         "prefix": "dividendos",
-        "namespace": "https://www.sat.gob.mx/consulta/64730/complemento-de-dividendos",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/dividendos",
         "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/dividendos/dividendos.xsd",
         "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/dividendos/dividendos.xslt",
         "type": "RetencionComplemento"
