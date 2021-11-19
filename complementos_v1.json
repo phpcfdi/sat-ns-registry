@@ -468,6 +468,16 @@
         "type": "Complemento"
     },
     {
+        "description": "Carta Porte 2.0",
+        "docUrl": "https://www.sat.gob.mx/consultas/68823/complemento-carta-porte-",
+        "element": "CartaPorte",
+        "version": "2.0",
+        "prefix": "cartaporte20",
+        "namespace": "http://www.sat.gob.mx/CartaPorte20",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte20.xsd",
+        "type": "Complemento"
+    },
+    {
         "description": "Instituciones educativas privadas",
         "docUrl": "https://www.sat.gob.mx/consulta/54569/complemento-para-facturas-electronicas-de-instituciones-educativas",
         "element": "instEducativas",
