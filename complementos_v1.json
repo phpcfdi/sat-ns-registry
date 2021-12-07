@@ -475,6 +475,7 @@
         "prefix": "cartaporte20",
         "namespace": "http://www.sat.gob.mx/CartaPorte20",
         "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte20.xsd",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte20.xslt",
         "type": "Complemento"
     },
     {
