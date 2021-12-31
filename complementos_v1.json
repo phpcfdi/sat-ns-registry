@@ -1,5 +1,16 @@
 [
     {
+        "description": "CFDI 4.0",
+        "docUrl": "https://www.sat.gob.mx/consultas/43074/actualizacion-factura-electronica---reforma-fiscal-2022-",
+        "element": "Comprobante",
+        "version": "4.0",
+        "prefix": "cfdi",
+        "namespace": "http://www.sat.gob.mx/cfd/4",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/4/cadenaoriginal_4_0/cadenaoriginal_4_0.xslt",
+        "type": "Comprobante"
+    },
+    {
         "description": "CFDI 3.3",
         "docUrl": "https://www.sat.gob.mx/consultas/35025/formato-de-factura-electronica-(anexo-20)",
         "element": "Comprobante",
@@ -61,6 +72,17 @@
         "version": "1.0",
         "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/1/cfdv1.xsd",
         "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/1/cadenaoriginal_1_0/cadenaoriginal_1_0.xsl",
+        "type": "Comprobante"
+    },
+    {
+        "description": "CFDI de Retenciones e Información de Pagos 2.0",
+        "docUrl": "https://www.sat.gob.mx/consultas/43074/actualizacion-factura-electronica---reforma-fiscal-2022-",
+        "element": "Retenciones",
+        "version": "2.0",
+        "prefix": "retenciones",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/2",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/2/retencionpagov2.xsd",
+        "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/2/retenciones.xslt",
         "type": "Comprobante"
     },
     {
