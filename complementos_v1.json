@@ -457,6 +457,17 @@
         "type": "Complemento"
     },
     {
+        "description": "Recepción de pagos 2.0",
+        "docUrl": "https://www.sat.gob.mx/consultas/92764/comprobante-de-recepcion-de-pagos",
+        "element": "Pagos",
+        "version": "2.0",
+        "prefix": "pago20",
+        "namespace": "http://www.sat.gob.mx/Pagos20",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos20.xsd",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/Pagos/Pagos20.xslt",
+        "type": "Complemento"
+    },
+    {
         "description": "Recepción de pagos 1.0",
         "docUrl": "https://www.sat.gob.mx/consultas/92764/comprobante-de-recepcion-de-pagos",
         "element": "Pagos",
