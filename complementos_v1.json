@@ -479,9 +479,9 @@
         "type": "Complemento"
     },
     {
-        "description": "Hidrocarburos 1.0",
+        "description": "Gastos Hidrocarburos 1.0",
         "docUrl": "https://www.sat.gob.mx/consulta/50282/conoce-los-complementos-para-consorcios-en-materia-de-hidrocarburos",
-        "element": "gastosHidrocarburos",
+        "element": "GastosHidrocarburos",
         "version": "1.0",
         "prefix": "gceh",
         "namespace": "http://www.sat.gob.mx/GastosHidrocarburos10",
