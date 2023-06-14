@@ -316,7 +316,7 @@
     {
         "description": "Consumo de combustibles 1.1",
         "docUrl": "https://www.sat.gob.mx/consulta/41426/genera-facturas-electronicas-con-informacion-del-consumo-de-combustible-con-monedero-electronico",
-        "element": "ConsumoDeCombustibles11",
+        "element": "ConsumoDeCombustibles",
         "version": "1.1",
         "prefix": "consumodecombustibles11",
         "namespace": "http://www.sat.gob.mx/ConsumoDeCombustibles11",
@@ -327,7 +327,7 @@
     {
         "description": "Consumo de combustibles 1.0",
         "docUrl": "https://www.sat.gob.mx/consulta/41426/genera-facturas-electronicas-con-informacion-del-consumo-de-combustible-con-monedero-electronico",
-        "element": "ConsumoDeCombustibles10",
+        "element": "ConsumoDeCombustibles",
         "version": "1.0",
         "prefix": "consumodecombustibles",
         "namespace": "http://www.sat.gob.mx/consumodecombustibles",
