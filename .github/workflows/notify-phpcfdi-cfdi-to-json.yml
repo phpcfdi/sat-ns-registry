@@ -1,5 +1,6 @@
 name: notify-phpcfdi-cfdi-to-json
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'complementos_v1.json'
