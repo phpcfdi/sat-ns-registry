@@ -1,6 +1,6 @@
 # Registro de namespaces del SAT
 
-Como no existe un registro general de los XML Namespaces que utiliza el SAT he creado este repositorio
+Como no existe un registro general de los XML Namespaces que utiliza el SAT, he creado este repositorio
 que cuenta con el archivo [`complementos_v1.json`](complementos_v1.json) en donde he recopilado la
 información de la documentación técnica.
 
@@ -33,8 +33,8 @@ Con la idea de SEMVER se implementan este manejo de versiones `mayor.menor.fix`
 
 ## Mantenimiento
 
-Si la información publicada es incorrecta o desactualizada por favor llena un Issue con todos los datos posibles.
-Si cuentas con la corrección podrías hacer un Pull Request.
+Si la información publicada es incorrecta o desactualizada por favor llena un *Issue* con todos los datos posibles.
+Si cuentas con la corrección podrías hacer un *Pull Request*.
 
 Internamente uso un archivo CSV y un script simple de PHP para generar el contenido JSON. Ambos están en la carpeta `source/`.
 
