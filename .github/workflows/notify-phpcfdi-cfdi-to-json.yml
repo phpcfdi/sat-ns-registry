@@ -13,7 +13,7 @@ jobs:
     steps:
       # see https://github.com/marketplace/actions/repository-dispatch
       - name: "Notify phpcfdi/cfdi-to-json"
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
           repository: phpcfdi/cfdi-to-json
