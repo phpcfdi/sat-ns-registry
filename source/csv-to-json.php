@@ -60,7 +60,7 @@ exit(call_user_func(
                 $destination ?: 'php://stdout',
                 json_encode($jsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . PHP_EOL
             );
-            
+
             return 0;
         } catch (Throwable $exception) {
             file_put_contents('php://stderr', 'ERROR: ' . $exception->getMessage() . PHP_EOL);

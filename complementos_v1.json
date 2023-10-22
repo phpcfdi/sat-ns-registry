@@ -523,6 +523,17 @@
         "type": "Complemento"
     },
     {
+        "description": "Carta Porte 3.0",
+        "docUrl": "http://omawww.sat.gob.mx/tramitesyservicios/Paginas/complemento_carta_porte.htm",
+        "element": "CartaPorte",
+        "version": "3.0",
+        "prefix": "cartaporte30",
+        "namespace": "http://www.sat.gob.mx/CartaPorte30",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte30.xsd",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte30.xslt",
+        "type": "Complemento"
+    },
+    {
         "description": "Instituciones educativas privadas",
         "docUrl": "https://www.sat.gob.mx/consulta/54569/complemento-para-facturas-electronicas-de-instituciones-educativas",
         "element": "instEducativas",
