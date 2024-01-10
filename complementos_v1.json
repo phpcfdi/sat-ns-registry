@@ -435,6 +435,17 @@
         "type": "Complemento"
     },
     {
+        "description": "Comercio Exterior 2.0",
+        "docUrl": "https://www.sat.gob.mx/consultas/61165/comprobante-de-comercio-exterior",
+        "element": "ComercioExterior",
+        "version": "2.0",
+        "prefix": "cce20",
+        "namespace": "http://www.sat.gob.mx/ComercioExterior20",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/ComercioExterior20/ComercioExterior20.xsd",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/ComercioExterior20/ComercioExterior20.xslt",
+        "type": "Complemento"
+    },
+    {
         "description": "Comercio Exterior 1.1",
         "docUrl": "https://www.sat.gob.mx/consultas/61165/comprobante-de-comercio-exterior",
         "element": "ComercioExterior",
