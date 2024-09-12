@@ -1,13 +1,22 @@
 <?php
 
 exit(call_user_func(
-    function (string $commandName, string $filename, string $destination): int {
-        if (in_array($filename, ['', '-h', '--help'], true)) {
-            echo $commandName, ' transform csv to json (used for complementos.csv)', PHP_EOL,
-                'Syntax: ', $commandName, ' source-file.csv', PHP_EOL,
-                PHP_EOL;
+    function (string $commandName, string ...$arguments): int {
+        if ([] !== array_intersect($arguments, ['', '-h', '--help'])) {
+            $commandName = basename($commandName);
+            echo <<< HELP
+                $commandName transform csv to json (used for complementos.csv)
+                Syntax:
+                    $commandName [-h|--help|help] source [destination]
+                Arguments:
+                    -h|--help|help:     Show this help.
+                    source:             CSV file with the source data.
+                    destination:        Output file, if ommited then use "-" (standard output).
+                HELP, PHP_EOL, PHP_EOL;
             return 0;
         }
+        $filename = $arguments[0] ?? '';
+        $destination = $arguments[1] ?? '';
         if ('-' === $destination) {
             $destination = '';
         }
