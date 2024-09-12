@@ -639,7 +639,7 @@
         "version": "1.0",
         "prefix": "enajenaciondeacciones",
         "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/enajenaciondeacciones",
-        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/retencionpagov1.xsd",
+        "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/enajenaciondeacciones/enajenaciondeacciones.xsd",
         "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/enajenaciondeacciones/enajenaciondeacciones.xslt",
         "type": "RetencionComplemento"
     },
