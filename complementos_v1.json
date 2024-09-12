@@ -693,7 +693,7 @@
         "element": "Pagosaextranjeros",
         "version": "1.0",
         "prefix": "pagosaextranjeros",
-        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/enajenaciondeacciones",
+        "namespace": "http://www.sat.gob.mx/esquemas/retencionpago/1/pagosaextranjeros",
         "xsd": "http://www.sat.gob.mx/esquemas/retencionpago/1/pagosaextranjeros/pagosaextranjeros.xsd",
         "xslt": "http://www.sat.gob.mx/esquemas/retencionpago/1/pagosaextranjeros/pagosaextranjeros.xslt",
         "type": "RetencionComplemento"
