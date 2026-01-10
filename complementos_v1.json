@@ -282,7 +282,7 @@
     },
     {
         "description": "Recibo de pago de nómina 1.2",
-        "docUrl": "https://www.sat.gob.mx/consultas/97722/comprobante-de-nomina",
+        "docUrl": "https://www.sat.gob.mx/portal/public/tramites/complemento-de-nomina",
         "element": "Nomina",
         "version": "1.2",
         "prefix": "nomina12",
