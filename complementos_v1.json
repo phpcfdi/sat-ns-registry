@@ -611,6 +611,17 @@
         "type": "ComplementoConcepto"
     },
     {
+        "description": "Hidrocarburos y petrolíferos",
+        "docUrl": "https://www.sat.gob.mx/portal/public/tramites/complementos-de-factura",
+        "element": "HidroYPetro",
+        "version": "1.0",
+        "prefix": "hidrocarburospetroliferos",
+        "namespace": "http://www.sat.gob.mx/hidrocarburospetroliferos",
+        "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/hidrocarburospetroliferos.xsd",
+        "xslt": "https://ampocdevbuk01a.s3.us-east-1.amazonaws.com/hidrocarburospetroliferos_3b1a7208b6.xslt",
+        "type": "ComplementoConcepto"
+    },
+    {
         "description": "Arrendamiento en fideicomiso",
         "docUrl": "https://www.sat.gob.mx/consulta/13847/conoce-como-generar-la-factura-electronica-de-retenciones-e-informacion-de-pagos-por-arrendamiento-en-fideicomiso",
         "element": "Arrendamientoenfideicomiso",
