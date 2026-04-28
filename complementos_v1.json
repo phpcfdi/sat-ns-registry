@@ -618,7 +618,7 @@
         "prefix": "hidrocarburospetroliferos",
         "namespace": "http://www.sat.gob.mx/hidrocarburospetroliferos",
         "xsd": "http://www.sat.gob.mx/sitio_internet/cfd/hidrocarburospetroliferos.xsd",
-        "xslt": "https://ampocdevbuk01a.s3.us-east-1.amazonaws.com/hidrocarburospetroliferos_3b1a7208b6.xslt",
+        "xslt": "http://www.sat.gob.mx/sitio_internet/cfd/HidrocarburosPetro/hidrocarburospetroliferos.xslt",
         "type": "ComplementoConcepto"
     },
     {
